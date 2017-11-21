@@ -22,7 +22,9 @@ Leurs offres sont sous forme de "Packs" allant de 85€ à 165€ par mois.
 ## Présentation
 
 * Peux-tu te présenter brièvement ?
+Florence, j'ai 38 ans, mariée et 2 enfants.
 * Où travailles-tu ? (indépendant/PME/grosse boîte/service public...)
+Je travaille dans une PME RestoFactory (Zaventem) comme employée à temps partiel.
 * Quelle est ta fonction exacte au sein de l'entreprise ? Au sein de quel département de l'entreprise travailles-tu ?
 * Depuis quand exerces-tu ?
 * Peux-tu me décrire en quoi consiste ton métier ou ton poste ?
