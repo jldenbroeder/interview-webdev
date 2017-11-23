@@ -15,6 +15,9 @@ background-color: #e6ebc6;
   background-color: #eba7a7;
 }
 .container header{
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
   min-height: 200px;
   background-image: url("images/web-design.jpg");
   background-repeat: no-repeat;
@@ -25,13 +28,10 @@ background-color: #e6ebc6;
   background-size:cover;
   background-position:center;
 }
-.container nav{
-  background-color: rgb(32, 33, 45);
+.container header #citation{
+  justify-self: end;
+  align-self: flex-end;
   text-align: right;
-  font-size: 16px;
-  font-weight: 600;
-}
-.container #citation{
   padding: 10px;
   background-color: rgb(255, 255, 255, 0.75);
   border-radius: 5px;
@@ -41,13 +41,20 @@ q{
   font-style: italic;
   font-size: 24px;
 }
+.container nav{
+  background-color: rgb(32, 33, 45);
+  text-align: right;
+  font-size: 16px;
+  font-weight: 600;
+}
 .container ul{
+  flex-wrap: wrap;
   list-style-type: none;
   margin: 0px;
   padding: 0px;
 }
 ul li a{
-  text-shadow: 1px 1px 3px #666666;
+  text-shadow: 1px 1px 1px #323131;
   font-family: Arial;
   color: #ffffff;
   font-size: 14px;
@@ -70,7 +77,7 @@ ul li a:hover {
 .container aside{
   background-color: #7f815f;
 }
-@media screen and (min-width: 560px)
+@media screen and (min-width: 720px)
 {
   .container ul{
     display:inline-flex;
@@ -94,7 +101,21 @@ ul li a:hover {
     text-align: right;
   }
 }
-@media screen and (max-width: 560px)
+@media screen and (max-width: 720px)
 {
-
+  .container section{
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+  }
+  .container section .article{
+    grid-column: 1 / span 1;
+    grid-row: 1 / span 1;
+    text-align: left;
+  }
+  .container section .aside{
+    grid-column: 1 / span 1;
+    grid-row: 2 / span 1;
+    text-align: right;
+  }
 }
