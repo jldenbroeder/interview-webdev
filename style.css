@@ -36,10 +36,15 @@ background-color: #e6ebc6;
   background-color: rgb(255, 255, 255, 0.75);
   border-radius: 5px;
 }
-q{
+header q{
   font-family: Georgia, "Times New Roman", serif;
   font-style: italic;
   font-size: 24px;
+}
+aside q{
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  font-size: 14px;
 }
 .container nav{
   background-color: rgb(32, 33, 45);
@@ -73,9 +78,12 @@ ul li a:hover {
 }
 .container article{
   background-color: #c8cc83;
+  padding: 5px;
 }
 .container aside{
   background-color: #7f815f;
+  padding: 5px;
+  text-align: right;
 }
 @media screen and (min-width: 720px)
 {
