@@ -2,7 +2,7 @@
 
 Je me présente, Jean Luc Denbroeder, je suis actuellement Designer Freelance (création pré-presse et web), j'ai démarré une formation de Web Developer chez BeCode (http://www.becode.org) en novembre 2017 dans le but d'ajouter plusieurs compétences à ma profession. 
 
-"Privilégiez le Pratique avant l'hestétique" JeanLuc :D
+"Privilégiez le Pratique avant l'Esthétique" JeanLuc :D
 
 *************************
 
