@@ -1,18 +1,20 @@
 # Accueil
 
-Je me présente, Jean Luc Denbroeder, je suis actuellement Designer Freelance (création pré-presse et web), j'ai démarré une formation de Web Developer chez BeCode en novembre 2017 dans le but d'ajouter plusieurs compétences à ma profession. (http://www.becode.org)
+Je me présente, Jean Luc Denbroeder, je suis actuellement Designer Freelance (création pré-presse et web), j'ai démarré une formation de Web Developer chez BeCode (http://www.becode.org) en novembre 2017 dans le but d'ajouter plusieurs compétences à ma profession. 
+
+"Privilégiez le Pratique avant l'hestétique" JeanLuc :D
 
 *************************
 
 # Making Of
 
-Malgré plusieurs recherches, je n'ai toujours pas trouvé un WebDeveloper, mais je suis en bonne voie, j'ai contacté une personne travaillant chez restofactory.be (Design et développement de site dont la cible principale sont les restaurants). J'attends impatiemment l'interview ;-)
+Après plusieurs recherches (emailings, appels téléphonique,...), j'ai contacté une personne travaillant chez http://www.restofactory.be (Design et développement de site dont la cible principale sont les restaurants). L'interview m'est parvenu très rapidement ;-)
 
 *************************
 
 # Entreprise
 
-Florence est Web Développeuse et Designer chez restofactory.be, ils créent des sites Internet principalement pour le secteur Horeca et gèrent le célèbre site resto.be bien connu de tous.
+Florence est Web Développeuse et Designer chez http://www.restofactory.be, ils créent des sites Internet principalement pour le secteur Horeca et gèrent le célèbre site http://www.resto.be bien connu de tous.
 Leurs offres sont sous forme de "Packs" allant de 85€ à 165€ par mois.
 
 *************************
