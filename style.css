@@ -16,8 +16,8 @@ background-color: #e6ebc6;
 }
 .container header{
   display: grid;
-  grid-template-rows: 1fr;
-  grid-template-columns: 1fr;
+  /*grid-template-rows: 1fr;
+  grid-template-columns: 1fr;*/
   min-height: 200px;
   background-image: url("images/web-design.jpg");
   background-repeat: no-repeat;
@@ -113,8 +113,8 @@ ul li a:hover {
 {
   .container section{
     display: grid;
-    grid-template-rows: 1fr;
-    grid-template-columns: 1fr;
+    /*grid-template-rows: 1fr;
+    grid-template-columns: 1fr;*/
   }
   .container section .article{
     grid-column: 1 / span 1;
