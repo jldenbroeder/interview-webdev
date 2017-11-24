@@ -29,12 +29,12 @@ Leurs offres sont sous forme de "Packs" allant de 85€ à 165€ par mois.
 Florence, j'ai 38 ans, mariée et 2 enfants.
 * Où travailles-tu? 
 Je travaille dans une PME RestoFactory (Zaventem) comme employée à temps partiel.
-* Quelle est ta fonction exacte au sein de l'entreprise ? Au sein de quel département de l'entreprise travailles-tu?
+* Quelle est ta fonction exacte au sein de l'entreprise? Au sein de quel département de l'entreprise travailles-tu?
 Webdesigner pour la société RestoFactory qui crée des site web pour des restaurants.
 * Depuis quand exerces-tu?
-Un peu plus de 10 ans
+Un peu plus de 10 ans.
 * Peux-tu me décrire en quoi consiste ton métier ou ton poste?
-Je crée des sites web à partir d'un CMS (Wordpress) pour des restaurants
+Je crée des sites web à partir d'un CMS (Wordpress) pour des restaurants.
 * Quelles tâches annexes peux-tu être amené à accomplir?
 Des corrections sur des sites existants et qui ont été créés par nous, aider les clients au téléphone…
 
@@ -43,7 +43,7 @@ Des corrections sur des sites existants et qui ont été créés par nous, aider
 * Qu’est-ce qui t'a donné envie de faire ce métier?
 Je pensais, à l'époque, que c'était un métier d'avenir…
 * Quel est ton parcours? 
-J'ai étudié l'infographie - webdesign à l'institut Saint Luc de BXL
+J'ai étudié l'infographie - webdesign à l'institut Saint-Luc de Bruxelles.
 * Comment es-tu parvenu à ton emploi actuel?
 Par relation...
 
@@ -52,7 +52,7 @@ Par relation...
 * Quelles sont les qualités personnelles nécessaires pour exercer ce métier selon toi?
 De la rigueur, de la passion, une envie d'apprendre tous les jours...
 * Quelles sont les compétences professionnelles exigées dans ce métier?
-Une certaine connaissance technique de programmes sont nécessaires
+Une certaine connaissance technique de programmes sont nécessaires.
 * Peux-tu préciser à quelles technologies tu fais appel au quotidien?
 Les CMS,...
 * Qu’est-ce qui te plaît le plus dans ton métier et pourquoi?
@@ -62,14 +62,14 @@ La création, la recherche de nouveau design, faire en sorte que chaque client e
 
 * Quelles sont les personnes avec qui tu es amené à entrer en relation?
 Nous avons parfois les clients au téléphones, et bien sûr les collègues de bureau: after sales, commerciaux, marketing...
-* Y a-t-il des conditions de travail spécifiques ? Des contraintes physiques?
-Non
+* Y a-t-il des conditions de travail spécifiques? Des contraintes physiques?
+Non.
 * Quels sont les problèmes auxquels tu peux être confronté?
-Des clients mécontents....
+Des clients mécontents...
 
 ## Le marché de l'emploi
 
-* Quel est l'état du marché de l'emploi pour ce métier en général selon toi ? Dans ta zone géographique?
+* Quel est l'état du marché de l'emploi pour ce métier en général selon toi? Dans ta zone géographique?
 Du côté de Bruxelles et des grandes villes, ça va... Et encore, au niveau du webdesign les places sont chères...
 * Existe-t-il des difficultés de recrutement dans ton métier?
 Voir réponse ci-dessus...
