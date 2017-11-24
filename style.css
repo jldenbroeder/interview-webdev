@@ -71,10 +71,11 @@ aside q{
   list-style-type: none;
   margin: 0px;
   padding: 0px;
-}
-ul li a{
   text-shadow: 1px 1px 1px #323131;
   font-family: Arial;
+  color: rgb(116, 116, 116);
+}
+ul li a{
   color: #ffffff;
   font-size: 14px;
   padding: 10px 10px 10px 10px;
@@ -94,7 +95,6 @@ ul li a:hover {
 }
 .container aside{
   background-color: #c3c3c3;
-  padding: 10px;
   text-align: right;
 }
 .container footer{
@@ -117,15 +117,15 @@ ul li a:hover {
     grid-template-columns: 2fr 1fr;
     min-height: 250px;
   }
-  .container section .article{
-    grid-column: 1 / span 2;
+  .container section article{
+    grid-column: 1 / span 1;
     grid-row: 1 / span 1;
     text-align: left;
   }
-  .container section .aside{
+  .container section aside{
     grid-column: 2 / span 1;
     grid-row: 1 / span 1;
-    height: 200px;
+    padding: 10px 10px 50px 10px;
     text-align: right;
   }
 }
