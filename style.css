@@ -1,18 +1,32 @@
 body{
-background-color: #e6ebc6;
+  background-color: rgb(173, 173, 173);
+  padding: 0px;
+  margin: 0px;
+}
+p{
+  font: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+h1{
+  font-size: 100%;
+  color: #4b0000;
+}
+.icone-fontawesome{
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #cccccc;
 }
 .container{
   display: grid;
   grid-template-columns: 1fr;
   /*grid-gap: 10px;*/
+  align-items: stretch;
   width: 80%;
+  max-width: 960px;
   margin: 0 10%;
-  background-color: #ccdba2;
 }
-
 .container > *{
-  padding: 10px;
-  background-color: #eba7a7;
+  /*padding: 10px;*/
 }
 .container header{
   display: grid;
@@ -44,7 +58,7 @@ header q{
 aside q{
   font-family: Georgia, "Times New Roman", serif;
   font-style: italic;
-  font-size: 14px;
+  font-size: 16px;
 }
 .container nav{
   background-color: rgb(32, 33, 45);
@@ -70,20 +84,24 @@ ul li a:hover {
   color: #d1d1d1;
   text-decoration: none;
 }
-.container footer{
-  background-color: #656565;
-}
 .container section{
-  background-color: #e38eda;
+  background-color: #fff;
+  padding: 20px;
+  align-items: baseline; /*baseline; stretch;*/
 }
 .container article{
-  background-color: #c8cc83;
-  padding: 5px;
+  padding: 10px;
 }
 .container aside{
-  background-color: #7f815f;
-  padding: 5px;
+  background-color: #c3c3c3;
+  padding: 10px;
   text-align: right;
+}
+.container footer{
+  padding: 10px;
+  text-align: right;
+  background-color: rgb(32, 33, 45);
+  color: #ffffff;
 }
 @media screen and (min-width: 720px)
 {
@@ -97,6 +115,7 @@ ul li a:hover {
     display: grid;
     grid-template-rows: 1fr;
     grid-template-columns: 2fr 1fr;
+    min-height: 250px;
   }
   .container section .article{
     grid-column: 1 / span 2;
@@ -106,6 +125,7 @@ ul li a:hover {
   .container section .aside{
     grid-column: 2 / span 1;
     grid-row: 1 / span 1;
+    height: 200px;
     text-align: right;
   }
 }
