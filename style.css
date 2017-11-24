@@ -11,6 +11,9 @@ h1{
   font-size: 100%;
   color: #4b0000;
 }
+a{
+  text-decoration: none;
+}
 .icone-fontawesome{
   padding-left: 20px;
   padding-right: 20px;
