@@ -30,7 +30,7 @@ Florence, j'ai 38 ans, mariée et 2 enfants.
 * Où travailles-tu? 
 Je travaille dans une PME RestoFactory (Zaventem) comme employée à temps partiel.
 * Quelle est ta fonction exacte au sein de l'entreprise? Au sein de quel département de l'entreprise travailles-tu?
-Webdesigner pour la société RestoFactory qui crée des site web pour des restaurants.
+Webdesigner pour la société RestoFactory qui crée des sites web pour des restaurants.
 * Depuis quand exerces-tu?
 Un peu plus de 10 ans.
 * Peux-tu me décrire en quoi consiste ton métier ou ton poste?
@@ -74,7 +74,7 @@ Du côté de Bruxelles et des grandes villes, ça va... Et encore, au niveau du 
 * Existe-t-il des difficultés de recrutement dans ton métier?
 Voir réponse ci-dessus...
 * As-tu déjà été démarché par un recruteur?
-Non
+Non.
 
 ## Conseils...
 
@@ -87,4 +87,5 @@ Non, mais moi j'adore ce que je fais.
 
 # Conclusion
 
+Le métier de Codeur est très passionant et allié avec le Design, il devient un outil majeur dans le développement Web. Il manquera plus de 20.000 codeurs d'ici 2019/2020 et comme beaucoup d'autres passionnés, je serai prêt lors des demandes!
 
