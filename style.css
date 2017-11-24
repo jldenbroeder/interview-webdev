@@ -8,8 +8,12 @@ p{
   font-size: 14px;
 }
 h1{
-  font-size: 100%;
+  font-size: 130%;
   color: #4b0000;
+}
+h2{
+  font-size: 90%;
+  color: #622c2c;
 }
 a{
   text-decoration: none;
