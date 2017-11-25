@@ -3,7 +3,9 @@
 
 **Jean Luc Denbroeder**, Junior Web Developer BeCode
 
-21/11/2017
+21/11/2017  
+
+## Terminé !!!
 
 * Accueil : Présentation rapide de moi-même. Qui suis-je? Que fais-je à BeCode?
 * Making Of : Comment j'ai trouvé mon webdev.
